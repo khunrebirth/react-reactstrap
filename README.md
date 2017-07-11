@@ -3,8 +3,8 @@
 </p>
 
 # TodoList
-> ตัวอย่างการทำ การใช้ reactstrap (https://reactstrap.github.io) ร่วมกับ ReactJS <br />
-> จุดประสงค์เพื่อศึกษา React และลองประยุกต์ใช้
+> ตัวอย่างการใช้ reactstrap (https://reactstrap.github.io) ร่วมกับ ReactJS <br />
+> จุดประสงค์เพื่อศึกษา ReactJS และลองประยุกต์ใช้
 
 ### การติดตั้ง
 #### 1. ติดตั้งผ่าน npm โดยพิม npm install
